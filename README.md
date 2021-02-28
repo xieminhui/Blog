@@ -1,5 +1,9 @@
 # 冴羽的博客
 
+## 淘系招聘
+
+淘系消费者运营前端团队招人啦，从站外投放、唤端拉新到端内承接、手淘内各种互动项目，到商品详情、店铺订单等基础链路，个个都是千万上亿流量的项目，机遇挑战多多，不妨加我了解一下呗 mqyqingfeng
+
 ## 进度
 
 JavaScript深入系列 15 篇已完结。
@@ -8,14 +12,29 @@ JavaScript专题系列 20 篇已完结。
 
 underscore 系列 8 篇已完结。
 
+ES6 系列 20 篇已完结。
+
+现在写起了各种单篇……
+
+React 系列还在懒惰中……
+
 ## 专栏
 
 * [掘金主页](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
 * [segmentfault主页](https://segmentfault.com/u/yayu/articles)
+* [知乎专栏](https://zhuanlan.zhihu.com/c_1042806379215601664)
+* 新开公众号 搜索「yayujs」 或者 「冴羽的JavaScript博客」
 
-## 其他
+## 浏览器相关
 
-* [知乎](https://www.zhihu.com/people/qing-feng-yi-yang/activities)
+1. [浏览器系列之 Cookie 和 SameSite 属性](https://github.com/mqyqingfeng/Blog/issues/157)
+
+## 面试相关
+
+1. [淘系前端校招负责人元彦直播答疑文字实录](https://github.com/mqyqingfeng/Blog/issues/167)
+2. [业务前端的困境](https://github.com/mqyqingfeng/Blog/issues/172)
+3. [前端，社招，面淘宝，指南](https://github.com/mqyqingfeng/Blog/issues/198)
+4. [前端，校招，面淘宝，指南](https://github.com/mqyqingfeng/Blog/issues/200)
 
 ## 深入系列目录
 
@@ -35,6 +54,9 @@ underscore 系列 8 篇已完结。
 14. [JavaScript深入之创建对象的多种方式以及优缺点](https://github.com/mqyqingfeng/Blog/issues/15)
 15. [JavaScript深入之继承的多种方式以及优缺点](https://github.com/mqyqingfeng/Blog/issues/16)
 16. [JavaScript深入系列15篇正式完结！](https://github.com/mqyqingfeng/Blog/issues/17)
+17. [JavaScript深入之浮点数精度](https://github.com/mqyqingfeng/Blog/issues/155)
+18. [JavaScript深入之头疼的类型转换(上)](https://github.com/mqyqingfeng/Blog/issues/159)
+19. [JavaScript深入之头疼的类型转换(下)](https://github.com/mqyqingfeng/Blog/issues/164)
 
 ## 专题系列目录
 
@@ -59,6 +81,7 @@ underscore 系列 8 篇已完结。
 19. [JavaScript专题之乱序](https://github.com/mqyqingfeng/Blog/issues/51)
 20. [JavaScript专题之解读 v8 排序源码](https://github.com/mqyqingfeng/Blog/issues/52)
 21. [JavaScript专题系列20篇正式完结！](https://github.com/mqyqingfeng/Blog/issues/53)
+22. [JavaScript专题之花式表示26个字母](https://github.com/mqyqingfeng/Blog/issues/166)
 
 ## underscore 系列目录
 
@@ -71,6 +94,29 @@ underscore 系列 8 篇已完结。
 7. [underscore 系列之实现一个模板引擎(下)](https://github.com/mqyqingfeng/Blog/issues/70)
 8. [underscore 系列之字符实体与 _.escape](https://github.com/mqyqingfeng/Blog/issues/77)
 9. [underscore 的源码该如何阅读？](https://github.com/mqyqingfeng/Blog/issues/79)
+
+## ES6 系列目录
+
+1. [ES6 系列之 let 和 const](https://github.com/mqyqingfeng/Blog/issues/82)
+2. [ES6 系列之模板字符串](https://github.com/mqyqingfeng/Blog/issues/84)
+3. [ES6 系列之箭头函数](https://github.com/mqyqingfeng/Blog/issues/85)
+4. [ES6 系列之模拟实现 Symbol 类型](https://github.com/mqyqingfeng/Blog/issues/87)
+5. [ES6 系列之迭代器与 for of](https://github.com/mqyqingfeng/Blog/issues/90)
+6. [ES6 系列之模拟实现一个 Set 数据结构](https://github.com/mqyqingfeng/Blog/issues/91)
+7. [ES6 系列之 WeakMap](https://github.com/mqyqingfeng/Blog/issues/92)
+8. [ES6 系列之我们来聊聊 Promise](https://github.com/mqyqingfeng/Blog/issues/98)
+9. [ES6 系列之 Generator 的自动执行](https://github.com/mqyqingfeng/Blog/issues/99)
+10. [ES6 系列之我们来聊聊 Async](https://github.com/mqyqingfeng/Blog/issues/100)
+11. [ES6 系列之异步处理实战](https://github.com/mqyqingfeng/Blog/issues/101)
+12. [ES6 系列之 Babel 将 Generator 编译成了什么样子](https://github.com/mqyqingfeng/Blog/issues/102)
+13. [ES6 系列之 Babel 将 Async 编译成了什么样子](https://github.com/mqyqingfeng/Blog/issues/103)
+14. [ES6 系列之 Babel 是如何编译 Class 的(上)](https://github.com/mqyqingfeng/Blog/issues/105)
+15. [ES6 系列之 Babel 是如何编译 Class 的(下)](https://github.com/mqyqingfeng/Blog/issues/106)
+16. [ES6 系列之 defineProperty 与 proxy](https://github.com/mqyqingfeng/Blog/issues/107)
+17. [ES6 系列之模块加载方案](https://github.com/mqyqingfeng/Blog/issues/108)
+18. [ES6 系列之我们来聊聊装饰器](https://github.com/mqyqingfeng/Blog/issues/109)
+19. [ES6 系列之私有变量的实现](https://github.com/mqyqingfeng/Blog/issues/110)
+20. [ES6 完全使用手册](https://github.com/mqyqingfeng/Blog/issues/111)
 
 ## 注意
 
